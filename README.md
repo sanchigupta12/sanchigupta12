@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Sanchi Gupta
 
 🎓 Master’s in Analytics @ Northeastern University  
-   Passionate about transforming data into actionable insights  
-💡 Projects in A/B testing, predictive modeling, NLP, and dashboarding  
-   Tools I work with: Python, SQL, Power BI, Tableau, Snowflake, PySpark  
-   Exploring SaaS analytics, product-led growth metrics, and LLM integrations  
+- Passionate about transforming data into actionable insights  
+- Projects in A/B testing, predictive modeling, NLP, and dashboarding
+- Tools I work with: Python, SQL, Power BI, Tableau, Snowflake, PySpark
+- Exploring SaaS analytics, product-led growth metrics, and LLM integrations  
 
 ---
 
