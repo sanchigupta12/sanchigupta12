@@ -10,7 +10,7 @@
 
 ### 📌 Featured Projects
 
-- 🚦 [Chicago Traffic Crash Analysis] (https://github.com/sanchigupta12/Chicago-Traffic-Crash-Analysis) – ETL pipeline using Azure, Databricks, Snowflake & Tableau for crash trend insights
+- 🚦 [Chicago Traffic Crash Analysis](https://github.com/sanchigupta12/Chicago-Traffic-Crash-Analysis) – ETL pipeline using Azure, Databricks, Snowflake & Tableau for crash trend insights
 - 🏠 [Ames Housing Project](https://github.com/sanchigupta12/Ames-Housing-Project) – Regression modeling for price prediction  
 - 🎮 [FIFA Analysis Using ML](https://github.com/sanchigupta12/FIFA-ANALYSIS-USING-ML) – Player ratings & market value prediction  
 - 📈 [Logistic Regression & Regularization](https://github.com/sanchigupta12/Logistic-Regression) – Model tuning with performance metrics  
