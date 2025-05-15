@@ -10,16 +10,15 @@
 
 ### 📌 Featured Projects
 
-- 🚦 [Chicago Traffic Crash Analysis](https://github.com/sanchigupta12/Chicago-Traffic-Crash-Analysis) – ETL pipeline using Azure, Databricks, Snowflake & Tableau for crash trend insights
-- 🏠 [Ames Housing Project](https://github.com/sanchigupta12/Ames-Housing-Project) – Regression modeling for price prediction  
-- 🎮 [FIFA Analysis Using ML](https://github.com/sanchigupta12/FIFA-ANALYSIS-USING-ML) – Player ratings & market value prediction  
-- 📈 [Logistic Regression & Regularization](https://github.com/sanchigupta12/Logistic-Regression) – Model tuning with performance metrics  
-- 🧪 [A/B Testing Case Study](https://github.com/sanchigupta12/A-B-Testing-Case-Study) – Simulated clickstream analysis using statistical hypothesis testing
+- 🚦 [Chicago Traffic Crash Analysis](https://github.com/sanchigupta12/Chicago-Traffic-Crash-Analysis) – Built an ETL pipeline using Azure, Databricks, Snowflake, and Tableau to uncover crash patterns across Chicago  
+- 🏠 [Ames Housing Project](https://github.com/sanchigupta12/Ames-Housing-Project) – Applied regression models to predict home sale prices using Ames dataset  
+- 🎮 [FIFA Analysis Using ML](https://github.com/sanchigupta12/FIFA-ANALYSIS-USING-ML) – Predicted player ratings and market value using machine learning techniques  
+- 📈 [Profit Maximization (Linear Programming)](https://github.com/sanchigupta12/Profit-Maximization-Linear-Programming) – Used Excel Solver to optimize product mix and maximize profits under constraints  
+- 🧪 [A/B Testing Case Study](https://github.com/sanchigupta12/A-B-Testing-Case-Study) – Simulated clickstream data to perform statistical testing and analyze web design impact
 
 
-  
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanchi-gupta99)  
