@@ -21,6 +21,8 @@
 ---
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanchi-gupta99) 
-**Portfolio**: [Visit My Portfolio](https://sanchigupta12.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanchi-gupta99)  
+🌐 **Portfolio**: [sanchigupta12.github.io](https://sanchigupta12.github.io/)
+
 
