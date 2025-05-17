@@ -22,8 +22,9 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanchi-gupta99)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanchigupta12.github.io-0A0A0A?style=for-the-badge&logo=github)](https://sanchigupta12.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchi-gupta99)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanchigupta12.github.io-000?style=for-the-badge&logo=github&logoColor=white)](https://sanchigupta12.github.io/)
+
 
 
 
